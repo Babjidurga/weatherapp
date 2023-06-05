@@ -13,6 +13,9 @@ This is a weather application built with React that displays the weather informa
 
 ## Functionality
 
+you can check the functionality of Here 
+### https://weatherapp-babjidurga.vercel.app/
+
 - Allows the user to enter a city name in the input field to fetch the weather data for that city.
 - Displays the current temperature, weather description, and city name along with an appropriate weather icon.
 - Provides the option to toggle between Celsius and Fahrenheit temperature units.
