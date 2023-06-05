@@ -8,7 +8,7 @@ This is a weather application built with React that displays the weather informa
 - Tablet View
 ![image](https://github.com/Babjidurga/weatherapp/assets/113676689/a31c340d-9c9f-4e36-b380-bdd6bb2f36ae)
 - Mobile View
-image.png
+![image](https://github.com/Babjidurga/weatherapp/assets/113676689/beacca53-9ef5-453b-973f-2b3be4431e84)
 
 ## Functionality
 
