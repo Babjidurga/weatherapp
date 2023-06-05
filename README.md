@@ -4,9 +4,9 @@ This is a weather application built with React that displays the weather informa
 
 ## Sample pics
 - Desktop view
-image.png 
+![image](https://github.com/Babjidurga/weatherapp/assets/113676689/9efe9079-2d0c-4953-872d-63fbbe339d89)
 - Tablet View
-image.png
+![image](https://github.com/Babjidurga/weatherapp/assets/113676689/a31c340d-9c9f-4e36-b380-bdd6bb2f36ae)
 - Mobile View
 image.png
 
